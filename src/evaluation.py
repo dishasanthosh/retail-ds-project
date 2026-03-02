@@ -1,4 +1,4 @@
-from sklearn.metrics import classification_report, roc_auc_score
+from sklearn.metrics import classification_report, roc_auc_score # type: ignore
 
 def evaluate_classifier(model, X_test, y_test):
     pred = model.predict(X_test)
