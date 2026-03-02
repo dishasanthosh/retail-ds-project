@@ -1,5 +1,7 @@
 # retail-ds-project
 Retail Customer Intelligence & Revenue Analytics
+
+
 📌 Project Overview
 
 Retail businesses must proactively manage customer churn, optimize marketing strategy, and forecast revenue to remain competitive.
